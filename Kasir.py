@@ -4,6 +4,7 @@ gula = 11000
 saldo = 100000
 diskon = 10000
 kembalian = saldo - ((rokok + minyak + gula) - diskon)
+print("Ucup barang ke warung")
 print("Rokok : ", rokok)
 print("Minyak : ", minyak)
 print("Gula : ", gula)
